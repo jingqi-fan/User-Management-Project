@@ -2,9 +2,13 @@
 This project aims to implement a comprehensive user management system, including login and registration functionalities, using the following technologies:
 
 **Spring Boot:** For the backend server, handling user authentication, registration, and management.
+
 **Vue 3:** For the frontend, providing a reactive and dynamic user interface.
+
 **MyBatis:** For database operations, mapping Java objects to MySQL database tables.
+
 **MySQL:** For storing user data and managing user information.
+
 **Element Plus:** For the UI components, ensuring a modern and user-friendly interface.
 
 ## Features:
