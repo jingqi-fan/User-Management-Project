@@ -5,7 +5,7 @@ This project aims to implement a comprehensive user management system, including
 
 **Vue 3:** For the frontend, providing a reactive and dynamic user interface.
 
-**MyBatis:** For database operations, mapping Java objects to MySQL database tables.
+**MyBatis Plus:** For database operations, mapping Java objects to MySQL database tables.
 
 **MySQL:** For storing user data and managing user information.
 
